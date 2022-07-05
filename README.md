@@ -2,7 +2,7 @@
 ## Mass shooting from 2014 to July 5, 2022 by State gun ownership
 
 ### Description
-Total mass shooting incidence count from 2014 to July 5, 2022 (EDT) per 100k population, in relation to gun owner percentage by State.
+Total mass shooting incidence count from 2014 to July 5, 2022 (EDT) per 100k population, in relation to gun owner percentage by State. Loess line fitted with 90% CI.
 
 ### Data Source
 Mass shooting data from GUN VIOLENCE ARCHIVE: https://www.gunviolencearchive.org/reports/mass-shooting?  <br/>
